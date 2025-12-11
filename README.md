@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-just to practise js
+Just to strengthen my concepts, adn to practise java script i created this imple tic tac toe game 
